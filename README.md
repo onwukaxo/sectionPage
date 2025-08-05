@@ -92,15 +92,6 @@ The layout is optimized for a variety of screen sizes:
 * Change Tailwind classes in HTML
 * Modify custom animations via `<script>` Tailwind config
 * Update colors and keyframe values as needed
-
-**Color Palette**
-
-* **Gradient**: `#e0f2fe` to `#e9d5ff`
-* **CTA Button**: `#fbbf24` (yellow-400)
-* **Text**: `#1a202c` (gray-900)
-* **Subtitle**: `#4a5568` (gray-600)
-* **Decorative Circles**: Transparent yellow, purple, and red
-
 ---
 
 ### 🔧 **Technical Overview**
